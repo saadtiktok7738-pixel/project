@@ -1,0 +1,3 @@
+[functions.chatbot]
+verify_jwt = true
+entrypoint = "./functions/chatbot/index.ts"
